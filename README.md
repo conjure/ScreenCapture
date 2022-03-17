@@ -1,7 +1,6 @@
 # Espresso ScreenCapture
 
-This little library makes it easy to take a screenshot during Espresso tests.
-Screenshots will be saved to the devices media folder.
+Take screenshots during Espresso tests and save them to the devices media folder.
 
 It is great for developers as it works locally and without complicated setup. If you are looking for a solution to automate taking screenshots as part of your CI I recommend fastlane screenshots https://docs.fastlane.tools/getting-started/android/screenshots/
 
@@ -20,7 +19,7 @@ allprojects {
 Add the dependency 
 ```
 dependencies {
-        implementation 'uk.co.conjure:screencapture:Tag'
+        implementation 'uk.co.conjure:screencapture:<version>'
 }
 ```
 
