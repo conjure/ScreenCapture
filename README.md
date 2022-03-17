@@ -5,7 +5,7 @@ Screenshots will be saved to the devices media folder.
 
 It is great for developers as it works locally and without complicated setup. If you are looking for a solution to automate taking screenshots as part of your CI I recommend fastlane screenshots https://docs.fastlane.tools/getting-started/android/screenshots/
 
-## Add Dependencie
+## Add Dependency
 
 In the root build.gradle add `jitpack.io` to the repositories:
 ```
