@@ -1,4 +1,5 @@
 # Espresso ScreenCapture
+[![](https://jitpack.io/v/conjure/ScreenCapture.svg)](https://jitpack.io/#conjure/ScreenCapture)
 
 Take screenshots during Espresso tests and save them to the devices media folder.
 
